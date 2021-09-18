@@ -1,4 +1,4 @@
-demo : [https://musing-heisenberg-08270a.netlify.app/](https://musing-heisenberg-08270a.netlify.app/)
+Live demo : [https://musing-heisenberg-08270a.netlify.app/](https://musing-heisenberg-08270a.netlify.app/)
 
 # Getting Started with Create React App
 
